@@ -1,0 +1,3 @@
+[submodule "projects/openai-llm-server"]
+	path = projects/openai-llm-server
+	url = git@github.com:titaniper/openai-llm-server.git
