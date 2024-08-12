@@ -1,0 +1,3 @@
+[submodule "projects/lim-api"]
+	path = projects/lim-api
+	url = git@github.com:titaniper/lim-api.git
