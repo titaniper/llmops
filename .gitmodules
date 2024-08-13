@@ -1,3 +1,6 @@
 [submodule "projects/lim-api"]
 	path = projects/lim-api
 	url = git@github.com:titaniper/lim-api.git
+[submodule "prompt-engineering"]
+	path = prompt-engineering
+	url = git@github.com:titaniper/prompt-engineering.git
