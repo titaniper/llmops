@@ -4,3 +4,6 @@
 [submodule "prompt-engineering"]
 	path = prompt-engineering
 	url = git@github.com:titaniper/prompt-engineering.git
+[submodule "projects/llm"]
+	path = projects/llm
+	url = git@github.com:onlybooks/llm.git
