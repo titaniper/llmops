@@ -7,3 +7,12 @@
 [submodule "projects/llm"]
 	path = projects/llm
 	url = git@github.com:onlybooks/llm.git
+[submodule "langchain"]
+	path = langchain
+	url = git@github.com:titaniper/langchain.git
+[submodule "projects/llmjs"]
+	path = projects/llmjs
+	url = git@github.com:titaniper/llmjs.git
+[submodule "projects/reportjs"]
+	path = projects/reportjs
+	url = git@github.com:titaniper/reportjs.git
