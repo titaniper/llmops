@@ -16,3 +16,6 @@
 [submodule "projects/reportjs"]
 	path = projects/reportjs
 	url = git@github.com:titaniper/reportjs.git
+[submodule "gemini-file-search"]
+	path = gemini-file-search
+	url = git@github.com:titaniper/gemini-file-search.git
